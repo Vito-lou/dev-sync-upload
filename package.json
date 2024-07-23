@@ -1,0 +1,12 @@
+{
+  "name": "dev-sync-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm run --filter playground dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

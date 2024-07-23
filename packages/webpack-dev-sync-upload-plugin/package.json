@@ -1,0 +1,24 @@
+{
+  "name": "@dev-sync-upload/webpack",
+  "version": "1.0.0",
+  "description": "A Webpack plugin for hot uploading files via SSH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "ssh",
+    "HMR",
+    "upload"
+  ],
+  "author": "vito-lou",
+  "license": "ISC",
+  "dependencies": {
+    "node-ssh": "^13.2.0"
+  },
+  "peerDependencies": {
+    "webpack": "^4.0.0 || ^5.0.0"
+  }
+}
